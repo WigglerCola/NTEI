@@ -1,0 +1,14 @@
+/loadwep BubblesCutlass
+/loadwep BubblesShovel
+/loadwep BubblesWelder
+
+
+/loadwep LaserPrism2.wep
+
+/loadwep CandlePistol.wep
+/loadwep CandleRifle.wep
+/loadwep CandleMinigun.wep
+/loadwep CandleBarrage.wep
+/loadwep PartyGun.wep
+/loadwep PartyMinigun.wep
+
