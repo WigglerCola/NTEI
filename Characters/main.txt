@@ -1,2 +1,0 @@
-/loadmod BubbleHud.mod
-/loadrace bubbles.race
