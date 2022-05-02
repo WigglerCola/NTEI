@@ -1,1 +1,0 @@
-this is for Prismatic Iris variants of weapons (Defpack)
