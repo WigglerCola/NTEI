@@ -1,0 +1,4 @@
+
+/loadmod libLoader
+/load main2
+

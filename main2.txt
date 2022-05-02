@@ -1,0 +1,24 @@
+
+/allowmod libLoader.mod
+
+/loadmod ExIso_Main.mod
+/loadmod ExIso_Projectiles
+/loadmod ExIso_Projectiles2
+/loadmod ExIso_Enemies
+/loadmod ExIso_Events
+
+///loadmod options
+///loadmod ExIso_Options
+
+/load Areas
+/load Bosses
+/load Characters
+/load Mutations
+/load Objects
+/load Weapons
+
+
+
+
+
+
