@@ -1,0 +1,6 @@
+/loadmod ExIso_Campfire.mod
+/loadmod ExIso_CharHuds.mod
+/load Weapons
+/loadrace bubbles.race
+/loadrace amalgam.race
+

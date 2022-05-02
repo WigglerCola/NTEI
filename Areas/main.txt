@@ -1,0 +1,5 @@
+/loadarea devzone.area
+/loadarea robocenter.area
+/loadarea graveyard.area
+/loadarea deeplabs.area
+///loadarea cove.area
